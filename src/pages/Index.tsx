@@ -1,7 +1,7 @@
 
 import React from "react";
 import Navbar from "@/components/Navbar";
-import HeroSection from "@/components/HeroSection";
+import { HeroSection, HeroSectionDuplicate } from "@/components/HeroSection";
 import FeaturesSection from "@/components/FeaturesSection";
 import BenefitsSection from "@/components/BenefitsSection";
 import TestimonialsSection from "@/components/TestimonialsSection";
@@ -15,6 +15,7 @@ const Index = () => {
       <Navbar />
       <main>
         <HeroSection />
+        <HeroSectionDuplicate />
         <FeaturesSection />
         <BenefitsSection />
         <TestimonialsSection />
