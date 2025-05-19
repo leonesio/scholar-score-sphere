@@ -11,7 +11,7 @@ const HeroSection = () => {
               Simplifique a gestão de <span className="gradient-text">notas escolares</span>
             </h1>
             <p className="text-lg md:text-xl text-gray-600 max-w-lg">
-              Uma plataforma completa para professores, alunos e pais acompanharem 
+              Uma plataforma completa para professorees, alunos e pais acompanharem 
               o progresso acadêmico com facilidade e precisão.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
